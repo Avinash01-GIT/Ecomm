@@ -1,0 +1,314 @@
+[
+  {
+    "title": "iPhone 13 Pro",
+    "description": "The latest pro model from Apple with advanced features.",
+    "price": 999,
+    "discountingPercentage": 5.0,
+    "rating": 4.9,
+    "stock": 120,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/4/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/4/1.jpg",
+      "https://cdn.dummyjson.com/product-images/4/2.jpg",
+      "https://cdn.dummyjson.com/product-images/4/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 12 Pro",
+    "description": "A previous generation pro iPhone with exceptional camera capabilities.",
+    "price": 899,
+    "discountingPercentage": 10.0,
+    "rating": 4.8,
+    "stock": 90,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/5/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/5/1.jpg",
+      "https://cdn.dummyjson.com/product-images/5/2.jpg",
+      "https://cdn.dummyjson.com/product-images/5/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone SE (2022)",
+    "description": "A compact and affordable iPhone with modern performance.",
+    "price": 399,
+    "discountingPercentage": 0.0,
+    "rating": 4.5,
+    "stock": 150,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/6/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/6/1.jpg",
+      "https://cdn.dummyjson.com/product-images/6/2.jpg",
+      "https://cdn.dummyjson.com/product-images/6/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 13",
+    "description": "A powerful iPhone with an advanced dual-camera system.",
+    "price": 799,
+    "discountingPercentage": 3.0,
+    "rating": 4.7,
+    "stock": 100,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/7/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/7/1.jpg",
+      "https://cdn.dummyjson.com/product-images/7/2.jpg",
+      "https://cdn.dummyjson.com/product-images/7/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 12",
+    "description": "A sleek iPhone with a stunning OLED display.",
+    "price": 699,
+    "discountingPercentage": 7.0,
+    "rating": 4.6,
+    "stock": 110,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/8/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/8/1.jpg",
+      "https://cdn.dummyjson.com/product-images/8/2.jpg",
+      "https://cdn.dummyjson.com/product-images/8/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 11 Pro",
+    "description": "A high-performance iPhone with a triple-camera system.",
+    "price": 899,
+    "discountingPercentage": 12.0,
+    "rating": 4.7,
+    "stock": 85,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/9/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/9/1.jpg",
+      "https://cdn.dummyjson.com/product-images/9/2.jpg",
+      "https://cdn.dummyjson.com/product-images/9/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 11",
+    "description": "An affordable iPhone with great performance and a dual-camera system.",
+    "price": 599,
+    "discountingPercentage": 8.0,
+    "rating": 4.5,
+    "stock": 130,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/10/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/10/1.jpg",
+      "https://cdn.dummyjson.com/product-images/10/2.jpg",
+      "https://cdn.dummyjson.com/product-images/10/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone XR",
+    "description": "An iPhone with a Liquid Retina display and advanced Face ID.",
+    "price": 499,
+    "discountingPercentage": 15.0,
+    "rating": 4.4,
+    "stock": 140,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/11/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/11/1.jpg",
+      "https://cdn.dummyjson.com/product-images/11/2.jpg",
+      "https://cdn.dummyjson.com/product-images/11/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone X",
+    "description": "A revolutionary iPhone with a full-screen design and Face ID.",
+    "price": 999,
+    "discountingPercentage": 18.0,
+    "rating": 4.6,
+    "stock": 75,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/12/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/12/1.jpg",
+      "https://cdn.dummyjson.com/product-images/12/2.jpg",
+      "https://cdn.dummyjson.com/product-images/12/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 8 Plus",
+    "description": "An iPhone with a large display and dual-camera system.",
+    "price": 699,
+    "discountingPercentage": 20.0,
+    "rating": 4.3,
+    "stock": 65,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/13/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/13/1.jpg",
+      "https://cdn.dummyjson.com/product-images/13/2.jpg",
+      "https://cdn.dummyjson.com/product-images/13/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 8",
+    "description": "A powerful and affordable iPhone with a great camera.",
+    "price": 599,
+    "discountingPercentage": 18.0,
+    "rating": 4.2,
+    "stock": 80,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/14/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/14/1.jpg",
+      "https://cdn.dummyjson.com/product-images/14/2.jpg",
+      "https://cdn.dummyjson.com/product-images/14/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 7 Plus",
+    "description": "An iPhone with a large display and excellent camera features.",
+    "price": 499,
+    "discountingPercentage": 15.0,
+    "rating": 4.1,
+    "stock": 70,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/15/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/15/1.jpg",
+      "https://cdn.dummyjson.com/product-images/15/2.jpg",
+      "https://cdn.dummyjson.com/product-images/15/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 7",
+    "description": "A reliable and affordable iPhone with a great camera.",
+    "price": 399,
+    "discountingPercentage": 10.0,
+    "rating": 4.0,
+    "stock": 100,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/16/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/16/1.jpg",
+      "https://cdn.dummyjson.com/product-images/16/2.jpg",
+      "https://cdn.dummyjson.com/product-images/16/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 6s",
+    "description": "A popular iPhone known for its 3D Touch feature and improved camera.",
+    "price": 299,
+    "discountingPercentage": 15.0,
+    "rating": 4.2,
+    "stock": 80,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/15/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/15/1.jpg",
+      "https://cdn.dummyjson.com/product-images/15/2.jpg",
+      "https://cdn.dummyjson.com/product-images/15/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 6",
+    "description": "A sleek iPhone with a larger screen and improved design.",
+    "price": 249,
+    "discountingPercentage": 20.0,
+    "rating": 4.0,
+    "stock": 60,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/14/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/14/1.jpg",
+      "https://cdn.dummyjson.com/product-images/14/2.jpg",
+      "https://cdn.dummyjson.com/product-images/14/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 5s",
+    "description": "The first iPhone with a Touch ID fingerprint sensor.",
+    "price": 149,
+    "discountingPercentage": 25.0,
+    "rating": 3.8,
+    "stock": 40,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/13/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/13/1.jpg",
+      "https://cdn.dummyjson.com/product-images/13/2.jpg",
+      "https://cdn.dummyjson.com/product-images/13/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 5c",
+    "description": "A colorful and budget-friendly iPhone model.",
+    "price": 99,
+    "discountingPercentage": 30.0,
+    "rating": 3.5,
+    "stock": 20,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/12/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/12/1.jpg",
+      "https://cdn.dummyjson.com/product-images/12/2.jpg",
+      "https://cdn.dummyjson.com/product-images/12/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 4",
+    "description": "Introduced with a sleek, glass and stainless steel design, the iPhone 4 set a new standard in smartphone aesthetics.",
+    "price": 199,
+    "discountingPercentage": 0,
+    "rating": 4.0,
+    "stock": 10,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/11/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/11/1.jpg",
+      "https://cdn.dummyjson.com/product-images/11/2.jpg",
+      "https://cdn.dummyjson.com/product-images/11/3.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 3G",
+    "description": "The second generation iPhone featuring 3G network support and the App Store.",
+    "price": 99,
+    "discountingPercentage": 0,
+    "rating": 3.5,
+    "stock": 5,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/10/1.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/10/1.jpg",
+      "https://cdn.dummyjson.com/product-images/10/2.jpg",
+      "https://cdn.dummyjson.com/product-images/10/3.jpg"
+    ]
+  },
+  {
+    "email": "jeffbezos@example.com",
+    "password": "password123"
+  },
+  {
+    "email": "john.wick@example.com",
+    "password": "pencil123"
+  }
+]
